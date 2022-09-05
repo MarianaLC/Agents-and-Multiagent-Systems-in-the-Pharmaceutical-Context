@@ -1,0 +1,2 @@
+# Agents-and-Multiagent-Systems-in-the-Pharmaceutical-Context
+In this work, a Multi-agent System was developed, consisting of a Manager agent, responsible for analyzing the requests received by citizens and manage, in an autonomous and intelligent way, the purchase  and sale of medicines to Citizens. The Manager should also analyse the monthly sales of monthly sales as a way of anticipating the needs of the Pharmacias. In addition the system must also send the medicines to the respective address of the of the citizens.
